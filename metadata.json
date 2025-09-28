@@ -1,0 +1,5 @@
+{
+  "name": "Cotizador de Planes PREMEDIC",
+  "description": "Una aplicación web para cotizar planes de salud de PREMEDIC. Permite a los usuarios calcular el costo final de su plan de salud basado en sus aportes y edad. Incluye una función avanzada para actualizar las tablas de precios subiendo una nueva imagen, que es procesada por la API de Gemini para extraer los datos.",
+  "requestFramePermissions": []
+}
